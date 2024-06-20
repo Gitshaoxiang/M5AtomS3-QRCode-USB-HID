@@ -16,7 +16,6 @@
 #define KEY_TAB       0x2b
 #define KEY_ENTER     0x28
 
-
 const uint8_t _kb_asciimap[128] = {
     0x00,           // NUL
     0x00,           // SOH
